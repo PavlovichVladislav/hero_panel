@@ -1,0 +1,66 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "id": 2,
+      "name": "Неизвестный герой",
+      "description": "Скрывающийся в тени",
+      "element": "wind"
+    },
+    {
+      "id": "0f946335-2ffe-4a5c-8ff8-a354f90a765e",
+      "name": "Георгий А.",
+      "description": "Супер морф",
+      "element": "water"
+    },
+    {
+      "id": "232cc135-c6d0-4280-9a46-50d3238a27a6",
+      "name": "Владислав",
+      "description": "Супер огр",
+      "element": "fire"
+    },
+    {
+      "id": "902742be-9ac8-4f98-82dc-627534eac2ce",
+      "name": "Ярик",
+      "description": "Супер снайпер",
+      "element": "earth"
+    }
+  ],
+  "filters": [
+    {
+      "id": "1",
+      "name": "all",
+      "label": "Все",
+      "className": "btn btn-outline-dark"
+    },
+    {
+      "id": "2",
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn btn-danger"
+    },
+    {
+      "id": "3",
+      "name": "water",
+      "label": "Вода",
+      "className": "btn btn-primary"
+    },
+    {
+      "id": "4",
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn btn-success"
+    },
+    {
+      "id": "5",
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn btn-secondary"
+    }
+  ]
+}
